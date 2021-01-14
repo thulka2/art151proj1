@@ -4,4 +4,6 @@ function setup() {
 
 function draw() { 
     background(252, 186, 3);
+
+    ClientRect(150, 25, 100, 200);
 }

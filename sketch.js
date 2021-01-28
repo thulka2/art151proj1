@@ -1,3 +1,5 @@
+/* Example code */
+
 function setup() {
     createCanvas(windowWidth, windowHeight);
 }

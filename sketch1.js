@@ -1,3 +1,5 @@
+/* Messing around with variables */
+
 let x = 50;
 let y = 50;
 let flag = 1; 
@@ -59,7 +61,8 @@ function draw() {
     }
     x2 += flag2;
     y2 += yflag2;
-
+    
+    
     
     if ( x3 > windowWidth - 50 || x3 < 50) {
         flag3 *= -1;
